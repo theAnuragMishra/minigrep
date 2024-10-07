@@ -12,6 +12,7 @@ Clone the repository
   ```
   git clone https://github.com/theAnuragMishra/minigrep.git
   ```
+Run
 ```
 cargo run -- to poem.txt
 ```
